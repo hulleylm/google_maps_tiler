@@ -65,7 +65,6 @@ southEastLng = -122.4319237
 # Variables for API request (more info in README)
 api_key = "your API key here"
 zoom = 16
-picSize = 640
 picHeight = 640
 picWidth = 640
 scale = 2
