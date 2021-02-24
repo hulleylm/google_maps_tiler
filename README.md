@@ -4,10 +4,10 @@
 
 ## Inputs
 
-You can see all the inputs this API takes and explanation of those lised below, [here](https://developers.google.com/maps/documentation/maps-static/start).
+You can see all the inputs this API takes and explanation of those listed below, [here](https://developers.google.com/maps/documentation/maps-static/start).
 
 ### Script variables
-* areaID - Fot your use only, to used as part of the file name for future reference
+* areaID - For your use only, to used as part of the file name for future reference
 * northWestLat etc - These are the coordinates of the area you would like to "scan". Essentially, the top left and bottom right corners
 
 ### API parameters
